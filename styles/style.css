@@ -1,0 +1,29 @@
+body {
+  background-color: #253031;
+  margin: 0 auto;
+  width: 60%;
+}
+
+body,
+a {
+  color: #c6e0ff;
+}
+
+h1, h2 {
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+li,
+p,
+a {
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+}
